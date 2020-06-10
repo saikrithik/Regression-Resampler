@@ -1,4 +1,4 @@
-# Regression ReSampling
+# Regression ReSampling 
 An interface to apply your favourite resampler on regression tasks. Currently supports all resampling techniques present in **imblearn**
 
 ## Why does this exist?
