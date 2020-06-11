@@ -1,5 +1,5 @@
 # Regression ReSampling 
-[![Downloads](https://pepy.tech/badge/reg-resampler/week)](https://pepy.tech/project/reg-resampler/week)
+[![Downloads](https://pepy.tech/badge/reg-resampler/week)](https://pepy.tech/project/reg-resampler/week)\
 An interface to apply your favourite resampler on regression tasks. Currently supports all resampling techniques present in **imblearn**
 
 ## Why does this exist?
