@@ -3,7 +3,7 @@
 
 [![PyPI version shields.io](https://img.shields.io/pypi/v/reg-resampler.svg)](https://pypi.python.org/pypi/reg-resampler/)
 [![Downloads](https://pepy.tech/badge/reg-resampler)](https://pepy.tech/project/reg-resampler)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/saikrithik/Regression_ReSampling/commits/master)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/saikrithik/Regression-Resampler/commits/master)
 # Regression ReSampling
 An interface to apply your favourite resampler on regression tasks. Currently supports all resampling techniques present in **imblearn**
 
