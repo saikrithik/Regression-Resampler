@@ -62,7 +62,7 @@ final_X, final_Y = rs.resample(smote, df_train, Y_classes)
 ```
 
 ## Tutorials
-You can find further [tutorials](https://github.com/atif-hassan/Regression_ReSampling/tree/master/tutorials) on how to use this library for cross-validation
+You can find further [tutorials](https://github.com/saikrithik/Regression-Resampler/tree/master/tutorials) on how to use this library for cross-validation
 
 ## Future Ideas
 - Support for more resampling techniques
