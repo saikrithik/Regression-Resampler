@@ -9,7 +9,7 @@ An interface to apply your favourite resampler on regression tasks. Currently su
 
 ## Why does this exist?
 While we were working on a regression task, we realized that the target variable was skewed, i.e., most samples were present in a particular range. One can easily solve the skew problem for classification tasks via a slew of resampling techniques (either under or over sampling) but this luxury is unavailable for regression tasks. We therefore decided to create an interface that can repurpose all resampling techniques for classification problems to regression problems! 
-
+ 
 ## How to install?
 ```pip install reg_resampler```
 
